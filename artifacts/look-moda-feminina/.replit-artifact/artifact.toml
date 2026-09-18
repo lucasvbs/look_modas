@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "LOOK — Moda Feminina"
+description = "Landing page vibrante e responsiva para a LOOK, uma loja física de moda feminina com curadoria própria e atendimento personalizado para vestir mulheres do dia a dia à festa."
+version = "1.0.0"
+id = "artifacts/look-moda-feminina"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20476
+
+[services.development]
+run = "pnpm --filter @workspace/look-moda-feminina run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/look-moda-feminina", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/look-moda-feminina/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20476"
+BASE_PATH = "/"

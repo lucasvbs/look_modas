@@ -1,0 +1,130 @@
+COPY — LP LOOK (Loja de Roupas Femininas)
+1. HEADLINE PRINCIPAL
+
+Variação A — ângulo de identidade/estilo
+
+Seu estilo, do dia a dia à festa
+
+Variação B — ângulo de atendimento
+
+Moda com quem entende de você
+
+Variação C — ângulo de autoridade
+
+6 anos vestindo mulheres com estilo próprio
+
+2. SUBHEADLINE
+
+Peças pensadas pro seu dia a dia e pros seus momentos especiais, com atendimento que te ajuda a montar o look certo — sem pressa e sem achismo.
+
+3. ABERTURA / PROPOSTA DE VALOR
+
+Tem roupa que serve. E tem roupa que combina com você.
+
+A LOOK existe pra isso: peças pro dia a dia e pra festa, escolhidas com curadoria própria — não é o mix genérico que você acha em qualquer loja.
+
+Há mais de 6 anos ajudando mulheres a se vestirem do jeito delas, com atendimento que escuta antes de indicar.
+
+Vem conhecer a coleção.
+
+4. CTA PRIMÁRIO (acima da dobra)
+
+Variação 1 — ação direta: Falar no WhatsApp
+micro-copy: Resposta rápida • Sem compromisso
+
+Variação 2 — benefício: Ver as novidades
+micro-copy: Atendimento personalizado • 6 anos de loja
+
+5. IDENTIFICAÇÃO DA DOR
+
+Quem nunca comprou uma peça linda na vitrine e descobriu, em casa, que não combinava com nada do guarda-roupa?
+
+Você entra numa loja e ninguém te ajuda a escolher de verdade
+Peça bonita na foto, decepção no provador
+Roupa de festa que só serve numa ocasião e depois fica parada
+Medo de gastar e não saber se vai ficar bem
+Vontade de ter um estilo só seu, sem copiar tendência genérica
+Cansaço de loja que trata cliente como número
+6. APRESENTAÇÃO DA SOLUÇÃO
+
+Na LOOK, o atendimento é o ponto de partida, não um detalhe.
+
+Isso significa que, antes de te indicar qualquer peça, a equipe entende sua rotina, sua ocasião e seu estilo — e aí sim monta opções que fazem sentido pra você, do dia a dia até a festa.
+
+É esse cuidado, mantido há mais de 6 anos, que transforma "comprar roupa" em "vestir o seu estilo".
+
+7. BENEFÍCIOS (não features)
+Atendimento personalizado → você sai de lá sabendo por que aquela peça é sua cara, não só "ficou bonito"
+Peças pro dia a dia e pra festa → resolve o guarda-roupa inteiro numa loja só
+Curadoria com estilo próprio → você não usa a roupa que "todo mundo" tem
+Mais de 6 anos de mercado → equipe que já viu de tudo e sabe o que funciona em cada corpo
+Loja física, endereço fixo → você toca, prova e sai com a peça, sem esperar entrega
+8. PROVA SOCIAL
+
+[INSERIR NÚMERO — ex: "+X clientes atendidas" ou avaliação do Google/Instagram]
+
+[INSERIR 3 A 5 DEPOIMENTOS — nome + o que a cliente resolveu, ex: "Fulana, comprou o look pra formatura da filha"]
+
+(Sem depoimento ou nota real disponível ainda — precisa ser capturado antes de publicar a página. Nunca inventar.)
+
+9. OFERTA (modo serviço/loja física)
+
+Como funciona:
+
+Você manda mensagem no WhatsApp contando a ocasião (dia a dia, trabalho, festa)
+A equipe já separa opções que combinam com seu estilo
+Você vem à loja provar, ou combina de ver pelo WhatsApp antes
+
+[INSERIR OFERTA — condição de pagamento, parcelamento, frete/entrega se houver, política de troca]
+
+Endereço: [INSERIR ENDEREÇO COMPLETO] — nº 154
+
+10. QUEBRA DE OBJEÇÕES
+
+Mas e se não servir ou não combinar comigo?
+Por isso o atendimento vem antes da compra — a equipe te ajuda a escolher pensando no seu corpo e no seu estilo, não só no que está na vitrine.
+
+Mas roupa de loja física não é mais caro?
+[INSERIR RESPOSTA — depende da faixa de preço real da loja]
+
+Mas eu prefiro comprar online, sem sair de casa
+Dá pra começar a conversa pelo WhatsApp e já ver as opções antes de decidir ir até a loja.
+
+(Objeções reais não vieram no briefing — essas são as mais comuns do segmento. Vale confirmar com o cliente quais realmente aparecem na venda.)
+
+11. GARANTIA
+
+[INSERIR POLÍTICA DE TROCA/DEVOLUÇÃO REAL] — ex: "Não gostou depois de provar em casa? Troca em até X dias."
+
+12. URGÊNCIA / ESCASSEZ
+
+[INSERIR ESCASSEZ REAL — ex: "peças em estoque limitado", "coleção nova a cada mês"]
+
+(Sem informação de estoque/coleção no briefing. Se for real que as peças não repõem, essa é uma escassez legítima e forte pra usar — confirmar com o cliente.)
+
+13. FAQ
+A loja tem estacionamento perto? [INSERIR]
+Vocês têm peças de outros tamanhos/numeração maior? [INSERIR]
+Dá pra ver as peças pelo WhatsApp antes de ir até a loja? Sim, é só chamar e a equipe te manda opções.
+Tem roupa pra ocasião de festa e formatura? Sim, a curadoria cobre do dia a dia até eventos especiais.
+Qual o horário de funcionamento? [INSERIR]
+Tem parcelamento no cartão? [INSERIR]
+14. CTA FINAL
+
+Seu estilo não precisa ser igual ao de mais ninguém.
+
+Vem na LOOK e deixa a gente te ajudar a montar o look certo — pro hoje e pra qualquer ocasião que vier.
+
+Falar no WhatsApp agora
+
+15. PS / FECHAMENTO
+
+PS: São 6 anos ajudando mulheres a vestirem o próprio estilo, do dia a dia à festa. Se você quer parar de comprar roupa "genérica" e começar a vestir o que combina com você, a conversa começa num clique.
+
+NOTAS TÉCNICAS
+LGPD: se houver formulário de contato (além do WhatsApp direto), incluir checkbox de consentimento + link pra política de privacidade.
+Claims sinalizados: nenhuma afirmação de faturamento/resultado nesta copy — os pontos de risco são os placeholders de prova social, oferta, garantia e escassez, que precisam ser preenchidos com dado real antes de publicar.
+Tracking: Pixel da Meta + GA4 na página; evento de Lead disparado no clique do botão de WhatsApp, com ?utm_source no link do wa.me pra saber que o contato veio da LP.
+Estrutura sugerida acima da dobra: Headline + subheadline + 1ª imagem forte da vitrine/coleção + CTA de WhatsApp já visível, sem precisar rolar a página.
+CTAs ao longo da página: mínimo 3 — acima da dobra, depois da prova social, e no fechamento (bloco 14).
+Pendências pra levantar com o dono da loja: nome/número de avaliações reais, depoimentos, preço médio/faixa de preço, política de troca, forma de pagamento, endereço completo, horário de funcionamento, se há estoque limitado/coleção sazonal.
